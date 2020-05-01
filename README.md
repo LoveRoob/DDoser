@@ -10,7 +10,7 @@ pkg install git -y
 
 pkg install python -y
 
-git clone https://github.com/AliCybeRR/DDoser
+git clone https://github.com/LoveRoob/DDoser
 
 cd DDoser 
 
